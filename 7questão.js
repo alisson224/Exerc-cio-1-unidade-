@@ -4,7 +4,7 @@ function identificador(n1){
     }else if (n1%2==0){
         console.log ("par")
     }else{
-        console.log (impar)
+        console.log ("impar")
     }
 }
 identificador (32)
